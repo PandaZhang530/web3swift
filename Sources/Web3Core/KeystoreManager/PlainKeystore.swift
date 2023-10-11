@@ -4,7 +4,7 @@
 //
 
 import Foundation
-import secp256k1
+import secp256k1_alias
 
 public class PlainKeystore: AbstractKeystore {
 
